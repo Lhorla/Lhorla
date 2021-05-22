@@ -1,10 +1,14 @@
-### Hi there 👋, my name is Lhorla
-#### A Frontend Web Developer
+# Hi there 👋, my name is Lhorla
+## A Frontend Web Developer
 
 I'm a junior frontend developer who is passionate about learning tech stacks to create technology and elevate people. I currently enjoy working with CSS and Javascript. My interest is connecting with more web developers and building communities.
 
-Skills: JS / HTML / CSS
+## Skills: 
+- JS 
+- HTML 
+- CSS
 
+## About Me:
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on open source projects 
 - 😄 Pronouns: She/Her 
