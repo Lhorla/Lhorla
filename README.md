@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Titilola Shittu
 ## A Frontend Web Developer
 
-I'm a junior frontend developer who is passionate about learning tech stacks to create technology and elevate people. A final year Biochemistry undergraduate from Olabisi Onabanjo University (OOU), Ogun State in Nigeria. I currently enjoy working with CSS and Javascript. My interest is connecting with more web developers and building communities.
+I'm a junior frontend developer who is passionate about learning tech stacks to create technology and elevate people. A Biochemistry graduate from Olabisi Onabanjo University (OOU), Ogun State in Nigeria. I currently enjoy working with CSS and Javascript. My interest is connecting with more web developers and building communities.
 
 ## Skills: 
 - JS 
