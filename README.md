@@ -58,4 +58,5 @@ I currently enjoy creating awesome user experiences.
 <!-- BLOG-POST-LIST:START -->
 - [Top 5 Gaming Cryptos To Check Out In 2022](https://lhorla.medium.com/top-5-gaming-cryptos-to-check-out-in-2022-35e948ddeef0)
 - [The Endless Possibilities In The Metaverse](https://lhorla.medium.com/the-endless-possibilities-in-the-metaverse-20f1c80f4031)
+- [How To Get Whitelisted For NFT Projects](https://blog.cryptostars.is/how-to-get-whitelisted-for-nft-projects-a5f0450fe958)
 <!-- BLOG-POST-LIST:END -->
