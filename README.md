@@ -20,7 +20,7 @@ I currently enjoy creating awesome user experiences.
 
 - 👯 I’m looking to collaborate on **open source projects** and **hackathons**.
 
-- 👨‍💻 All of my projects are available here on [Github](https://github.com/lhorla)
+- 👨‍💻 All of my projects are available here on [Github](https://github.com/Lhorla?tab=repositories)
 
 - 📝 I write blockchain-related articles regularly on [Medium](https://medium.com/@lhorla)
 
