@@ -3,10 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lhorla&label=Profile%20views&color=9FACE6&style=flat" alt="lhorla" /> </p>
 
-<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Titilola, a Junior Frontend Web Developer who is passionate about learning tech stacks to create technology and elevate people. I'm also a freelance writer specialized in the blockchain niche, I write about NFTs, DeFi, Web3. My interest is connecting with more web developers and building amazing projects. <br>
+<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Titilola, a Junior Frontend Web Developer who is passionate about learning tech stacks to create technology and elevate people. I'm also a freelance writer specialized in the blockchain niche, I write about NFTs, DeFi, Web3. My interest is connecting with more web developers and creating awesome user experiences.</p>
  
-I currently enjoy creating awesome user experiences.
-</p>
+
+
 
 ---
 
