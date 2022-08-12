@@ -14,6 +14,7 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: My [Spotify](https://open.spotify.com/user/31xcdkqz2ozxreqqqfti2q2qts2y?si=LfJYwx1-T1WFzOGJuvzGXg&utm_source=copy-link) playlists are super cool
+- 🧠  I'm currently learning Frontend Development
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate on **open source projects** and **hackathons**.
 - 👨‍💻 All of my projects are available here on [Github](https://github.com/Lhorla?tab=repositories)
