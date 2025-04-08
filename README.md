@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lhorla.
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on data analysis projects.
+- 🌱 I’m currently learning data science.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love music
